@@ -1,22 +1,23 @@
+
 # Hafen
 
 This application was created with the solo purpose of fulfilling the proposed code challenge.
 
 ## Architecture
 
-REST API following Clean Architecture & DDD using .net 6
+REST API following Clean Architecture & DDD using .NET 6
 
 ## Remarkable Libs
 
-ErrorOr: Used to better control the application flow and avoid the usage of exceptions for most cases.
+ - **ErrorOr**: Used to better control the application flow and avoid the usage of exceptions for most cases;
 
-FluentValidaton: This lib contain most of the needed validations and played a major role with Mediatr using pipeline behaviors to validate Commands and Queries.
+- **FluentValidaton**: This lib contain most of the needed validations and played a major role with Mediatr using pipeline behaviors to validate Commands and Queries;
 
-Mediatr: Responsible for handling all Commands and Queries including validations.
+- **Mediatr**: Responsible for handling all Commands and Queries including validations.
 
 ### Executing program
 
-This application requires .net6 sdk in order to run
+This application requires [**.NET 6 SDK**](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) in order to run
 
 To run the project from the root:
 ```

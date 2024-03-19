@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>584b1be5-3ed1-44b3-873b-a3e38d893ec0</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.4.0" />
+    <PackageReference Include="Mapster.DependencyInjection" Version="1.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hafen.Contracts\Hafen.Contracts.csproj" />
+    <ProjectReference Include="..\Hafen.Application\Hafen.Application.csproj" />
+    <ProjectReference Include="..\Hafen.Infrastructure\Hafen.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+
+@host=https://localhost:7173
+@token=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJnaXZlbl9uYW1lIjoiYSIsImZhbWlseV9uYW1lIjoiYiIsImp0aSI6ImRkZTI3OWJlLWI3NmEtNDE5OS1iODRhLWZhMTg2YmQ4YmMzMiIsInN1YiI6IjM5ZGQ3NWViLTg3MjEtNGIzMS04ODkxLTc4M2JmZDRmOGMzYyIsImV4cCI6MTcxMDcwODc0OSwiaXNzIjoiSGFmZW4iLCJhdWQiOiJIYWZlbiJ9.rNptFC4xV55MQYcQYB7IC2vSa8PYHfh7xYLtavse41g
+
+POST {{host}}/ship
+Authorization: {{token}}
+Content-Type: application/json
+
+{
+  "name": "a@a.com",
+  "length": 2,
+  "width" : 0,
+  "code": ""
+}

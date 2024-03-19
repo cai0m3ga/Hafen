@@ -1,0 +1,6 @@
+
+@host=https://localhost:7173
+@token=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJnaXZlbl9uYW1lIjoiYSIsImZhbWlseV9uYW1lIjoiYiIsImp0aSI6ImYyYzhhZmFiLThjNzgtNGE0OC1iYTk4LTQ1NWVjOGZiMTUyMCIsInN1YiI6Ijg0MmMxMTE2LTk3ZjUtNDA0MS1hYzY5LTVmNTJjZmNjNTJjMiIsImV4cCI6MTcxMDcwMzU5MCwiaXNzIjoiSGFmZW4iLCJhdWQiOiJIYWZlbiJ9.98A_UhICdTmpK83I7B0glWIgNU32ku3Zq8Dp5xfNKck
+
+GET {{host}}/ship
+Authorization: {{token}}

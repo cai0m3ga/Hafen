@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Hafen\\0.6_with_tests\\Hafen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30186F9C-1E66-4E32-8C7B-D0D9819BA713}|tests\\UnitTests\\Hafen.Domain.UnitTests\\Hafen.Domain.UnitTests.csproj|d:\\dev\\hafen\\0.6_with_tests\\hafen\\tests\\unittests\\hafen.domain.unittests\\entities\\shiptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30186F9C-1E66-4E32-8C7B-D0D9819BA713}|tests\\UnitTests\\Hafen.Domain.UnitTests\\Hafen.Domain.UnitTests.csproj|solutionrelative:tests\\unittests\\hafen.domain.unittests\\entities\\shiptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipTest.cs",
+              "DocumentMoniker": "D:\\Dev\\Hafen\\0.6_with_tests\\Hafen\\tests\\UnitTests\\Hafen.Domain.UnitTests\\Entities\\ShipTest.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Hafen.Domain.UnitTests\\Entities\\ShipTest.cs",
+              "ToolTip": "D:\\Dev\\Hafen\\0.6_with_tests\\Hafen\\tests\\UnitTests\\Hafen.Domain.UnitTests\\Entities\\ShipTest.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Hafen.Domain.UnitTests\\Entities\\ShipTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:45:36.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

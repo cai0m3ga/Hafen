@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/L8gLNCB/pixlr-image-generator-54319689-06fc-4256-aa87-90ecce08087b.png" width="400" />
+<img src="https://i.ibb.co/L8gLNCB/pixlr-image-generator-54319689-06fc-4256-aa87-90ecce08087b.png" width="600" />
 
 # Hafen
 

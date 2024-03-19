@@ -1,4 +1,6 @@
 
+<img src="https://i.ibb.co/L8gLNCB/pixlr-image-generator-54319689-06fc-4256-aa87-90ecce08087b.png" width="400" />
+
 # Hafen
 
 This application was created with the solo purpose of fulfilling the proposed code challenge.
